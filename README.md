@@ -1,5 +1,15 @@
+
+# Steps to run the app:
+
+* Clone the repo.
+* cd to the repo directory.
+* run `npm i`
+* then run `npm start`
+
+
 # fruitsManaging
 To-do style app for managing fruits
+
 
 Create a to-do style app for managing fruits. Users will be able to add new records (fruit type + quantity) to the list, edit or delete existing records, and clear all records. Duplicates of the same type of 3 are not allowed. As a stretch goal, add an import button that will allow users to upload records from a csv file.
 
